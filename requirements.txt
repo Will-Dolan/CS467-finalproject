@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+matplotlib
+ucimlrepo
+seaborn
+pandas
+certifi # for uci
+xgboost
